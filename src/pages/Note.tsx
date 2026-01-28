@@ -48,7 +48,7 @@ export default function Note() {
             </motion.p>
 
             <motion.p variants={fadeUp}>
-              I know we dont many more moments that we celebrated together but the bond we shared is still special to me and I'll always cherish it.
+              I know we dont have more moments that we celebrated together but the bond we shared is still special to me and I'll always cherish it.
             </motion.p>
           </div>
 
@@ -57,8 +57,8 @@ export default function Note() {
             className="mt-12 text-center"
           >
             <div className="h-px w-24 bg-secondary/20 mx-auto mb-6" />
-            <p className="font-serif text-2xl text-secondary font-bold tracking-widest uppercase">Best Wishes,</p>
-            <p className="font-sans text-sm text-text-light/60 uppercase tracking-widest mt-1">Reflections</p>
+            <p className="font-serif text-2xl text-secondary font-bold tracking-widest uppercase">Best Wishes</p>
+            <p className="font-sans text-sm text-text-light/60 uppercase tracking-widest mt-1">FROM URSTRULY AKRAM</p>
           </motion.div>
         </div>
       </motion.div>
